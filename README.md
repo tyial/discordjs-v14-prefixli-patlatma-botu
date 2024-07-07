@@ -1,4 +1,4 @@
-# 🎉 **Tyial.DEV - Discord Sunucu Patlatma Botu Altyapısı** 🚀
+# 🎉 **Tyial.XYZ - Discord Sunucu Patlatma Botu Altyapısı** 🚀
 
 ## 🚀 **Nasıl Yüklenir/Ayarlanır:**
 
@@ -10,7 +10,7 @@
 
 ## 💡 **Bilgi**
 
-1. **📥 Bu altyapının v13 sürümü için [buraya tıklayın.](#)**
+1. **📥 Bu altyapının v13 sürümü için [buraya tıklayın.](https://github.com/tyial/discord-patlatma-botu-v13)**
 2. **⚠️ Konsola aşağıdaki tarzda hatalar gelebilir fakat problem değil, doğal hatalardır.** Detaylı bilgi için Discord'dan iletişime geçebilirsiniz.
 
 ```bash
@@ -34,7 +34,7 @@ Bu altyapı **sadece eğitim** ve **test amaçları** için hazırlanmıştır.
 ### 🌟 **Key Points**:
 
 - **📂 Dosyalar:** **Setup.bat**, **Config.js**, **Start.bat** ve diğerleri...
-- **📊 Sürüm:** **v13** için [**buraya tıklayın.**](#)
+- **📊 Sürüm:** **v13** için [**buraya tıklayın.**](https://github.com/tyial/discord-patlatma-botu-v13)
 - **💬 Destek:** Discordum üzerinden iletişime geçebilirsiniz.
 
 ---
