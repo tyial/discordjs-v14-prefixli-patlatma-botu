@@ -19,7 +19,7 @@
 ❗ ERROR DiscordAPIError[50007]: Cannot send messages to this user
 ```
 
-**📞 Discordum -> [Tyial (tyial)](https://discord.com/users/tyial)**
+**📞 Discordum -> [Tyial (tyial)](https://discord.com/users/852868839691517972)**
 
 ---
 
