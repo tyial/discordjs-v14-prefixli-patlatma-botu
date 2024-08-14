@@ -51,7 +51,7 @@ Bu altyapı **sadece eğitim** ve **test amaçları** için hazırlanmıştır.
 
 - **📘 Discord.js Belgeleri:** [https://discord.js.org](https://discord.js.org)
 - **📕 Node.js Belgeleri:** [https://nodejs.org](https://nodejs.org)
-- **🔍 GitHub:** [https://github.com/Tyial/Discord-Sunucu-Patlatma](https://github.com/Tyial/Discord-Sunucu-Patlatma)
+- **🔍 GitHub:** [https://github.com/tyial](https://github.com/tyial)
 
 ---
 
