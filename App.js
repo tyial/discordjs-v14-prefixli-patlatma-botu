@@ -11,6 +11,7 @@ require("./Events/Ready.js")(client);
 require("./Events/MessageCreate.js")(client);
 require("./Events/CommandHandler.js")(client);
 
+// Botu Kullanmadan README.md dosyasını okuyun!
 // CrashHandler --------------------------------------------------------------
 process.on('unhandledRejection', (reason, p) => {
     console.error(reason);
